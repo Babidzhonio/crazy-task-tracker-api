@@ -19,6 +19,7 @@ dependencies {
 
 dependencies{
     implementation ("com.mysql:mysql-connector-j:9.1.0")
+    implementation ("org.apache.logging.log4j:log4j-core:2.24.3")
 }
 
 dependencies {
